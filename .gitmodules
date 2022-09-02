@@ -10,3 +10,6 @@
 [submodule "admin_dashboard"]
 	path = admin_dashboard
 	url = https://github.com/golub-kirill/admin_dashboard.git
+[submodule "kinopoisk-yohoho"]
+	path = kinopoisk-yohoho
+	url = https://github.com/golub-kirill/kinopoisk-yohoho.git
