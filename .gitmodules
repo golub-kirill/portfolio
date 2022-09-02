@@ -1,3 +1,6 @@
 [submodule "shop"]
 	path = shop
 	url = https://github.com/golub-kirill/shop.git
+[submodule "make-appointment"]
+	path = make-appointment
+	url = https://github.com/golub-kirill/make-appointment.git
